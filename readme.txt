@@ -38,7 +38,7 @@ event. DONE.
 cfggameplay.json includes map function config that shows player position without needing GPS Receiver, tourist map or compass, and build anywhere settings. cfggameplay.json must be enabled in server settings and / or serverdz.cfg.
 DO NOT USE cfggameplay.json if you don't want build anywhere enabled.
 
-Latest 1.26 Items Added. DONE,
+Latest 1.26 Items Added, INCLUDING BOATS!!!! DONE,
 
 Latest 1.25 item, SV 98 / VS 89 Sniper Rifle added, will spawn with mag and a scope. DONE.
 
