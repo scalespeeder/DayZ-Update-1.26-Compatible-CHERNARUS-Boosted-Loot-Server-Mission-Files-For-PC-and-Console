@@ -210,6 +210,20 @@
     </type>
 	
 	
+	 <type name="BudenovkaHat_Gray">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	
+	
 	 <type name="BushlatPoliceJacket_Blue">
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
@@ -845,6 +859,46 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+    </type>
+	
+	  <type name="SherpaHat_Black">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>7</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="SherpaHat_Blue">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>7</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="SherpaHat_Red">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>7</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
 	
 	
